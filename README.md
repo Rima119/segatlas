@@ -10,10 +10,10 @@
     <img src="images/logo.png" alt="Logo" width="300" height="300">
   </a>
 
-  <h3 align="center">Track'N Goal</h3></h3>
+  <h3 align="center">SegAtlas</h3></h3>
 
   <p align="center">
-    A goal tracking Web/Mobile (Andoid & iOS) application.
+    An Object Segmentation Evaluation Tool
     <br />
     <br />
     <br />
