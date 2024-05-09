@@ -33,7 +33,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Related projects](#related-projects)
 - [Licensing](#licensing)
 
 
@@ -53,7 +52,6 @@ Rim EL FILALI - [Github](https://github.com/Rima119) / [Linkedin](https://www.li
 [![python][python]][python-url]
 [![opencv][opencv]][opencv-url]
 [![numpy][numpy]][numpy-url]
-[![panda][panda]][panda-url]
 
 ### Features
 - Object Segmentation Quality Assessment: Evaluate the quality of segmentation results by comparing ground truth and segmentation images using multiple metrics.
@@ -160,5 +158,3 @@ This project is licensed under the [MIT License](https://github.com/Rima119/sega
 [opencv-url]: https://opencv.org
 [numpy]: https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg
 [numpy-url]: https://numpy.org/
-[panda]: https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg
-[panda-url]: https://pandas.pydata.org/
